@@ -18,7 +18,7 @@ public class SwaggerConfig {
                         .version("1.0.0")
                         .contact(new Contact() // Añadir información de contacto
                             .name("Magneto")
-                            .url("https://github.com/BrendaAlcoba/Mutantes")
+                            .url("https://github.com/BrendaAlcoba/Mutantes_2")
                             .email("brendaalcoba7676@gmail.com")));
     }
 
