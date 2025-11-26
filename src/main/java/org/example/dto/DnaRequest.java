@@ -3,6 +3,7 @@ package org.example.dto;
 import lombok.Data;
 import jakarta.validation.constraints.NotNull;
 import org.example.validation.ValidDnaSequence;
+import jakarta.validation.constraints.NotEmpty;
 
 @Data
 public class DnaRequest {
