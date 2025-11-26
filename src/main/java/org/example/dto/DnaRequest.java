@@ -8,6 +8,7 @@ import org.example.validation.ValidDnaSequence;
 public class DnaRequest {
 
     @NotNull(message = "El array de ADN no puede ser nulo.")
+    @NotEmpty(message = "El array de ADN no puede estar vacío.")
     @ValidDnaSequence
     private String[] dna;
 }
