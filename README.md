@@ -256,7 +256,7 @@ Response
 
 ## **6. 🛠 Instalación y Ejecución**
 1. Clonar repositorio
-   git clone https://github.com/BrendaAlcoba/Mutantes.git
+   git clone https://github.com/BrendaAlcoba/Mutantes_2.git
    cd Mutantes
 
 2. Ejecutar
@@ -295,7 +295,7 @@ El proyecto incluye:
 ✔ Casos límite (bordes, NxN, solapamientos)
 
 
-📊 Cobertura total: ~88%
+📊 Cobertura total: ~91%
 
 ![jacoco_reports.png](docs/img/jacoco_reports.png)
 
